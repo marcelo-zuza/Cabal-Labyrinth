@@ -41,6 +41,7 @@ crashlytics-build.properties
 Library/
 Temp/
 Assets/AssetStoreTools*
+WebGL Builds/
 
 .DS_Store
 
