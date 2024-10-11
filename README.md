@@ -1,6 +1,6 @@
 # Cabal Labyrinth
 
-Dungeon Escape is a 3D maze-based escape game developed in Unity. You find yourself trapped in a dark dungeon filled with winding corridors, hidden traps, and powerful enemies. Your goal is to find the key, unlock the door, and escape before the dungeon claims your life!
+Cabal Labyrinth is a 3D maze-based escape game developed in Unity. You find yourself trapped in a dark dungeon filled with winding corridors, hidden traps, and powerful enemies. Your goal is to find the key, unlock the door, and escape before the dungeon claims your life!
 
 ## Features
 
